@@ -5,8 +5,9 @@ public class Day4 {
         System.out.println("nama\t:\tfardina");
         System.out.println("nim\t:\tD0223312");
         System.out.print("kelas\t:\t\"Informatika A\"\n");
-        System.out.println("c//document//iscBerantasButaCoding");
+        System.out.println("c\\document\\iscBerantasButaCoding");
         
     }
     
 }
+
