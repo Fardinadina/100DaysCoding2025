@@ -2,15 +2,26 @@ package pkg100days;
 public class Day14 {
 
     public static void main(String[] args) {
-        int umur = 20;            
-        double berat = 55.7;      
-        boolean pelajar = true; 
+        // String ke int
+        String strInt = "110";
+        int nilaiInt = Integer.parseInt(strInt);
 
-        System.out.println("Umur: " + umur);
-        System.out.println("Berat: " + berat);
-        System.out.println("Apakah Dia Mahasiswa?" + pelajar);
+        // String ke double
+        String strDouble = "12.75";
+        double nilaiDouble = Double.parseDouble(strDouble);
+
+        // String ke boolean
+        String strBool = "true";
+        boolean nilaiBool = Boolean.parseBoolean(strBool);
+
+        // Output
+        System.out.println("String ke int: " + nilaiInt);
+        System.out.println("String ke double: " + nilaiDouble);
+        System.out.println("String ke boolean: " + nilaiBool);
     }
 }
+    
 
    
+
 
