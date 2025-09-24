@@ -9,9 +9,10 @@ public class Day17 {
        
         int sisabagi = c1 % c2;
         System.out.println("===OPERASI ARITMATIKA % ===");
-        System.out.println("perkalian : " + sisabagi);
+        System.out.println("SISA BAGI : " + sisabagi);
        
     }
 }
+
 
 
