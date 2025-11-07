@@ -24,10 +24,5 @@ public class Day61 {
     }
 }
 
-/**
- *
- * @author Computer
- */
-public class Day61 {
-    
-}
+
+
